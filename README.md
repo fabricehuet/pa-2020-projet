@@ -68,7 +68,7 @@ Une fois l'architecture pour plugins mise en place, il devrait être très facil
 
 
 ### Évaluation et rendu  
- Le travail se fait en groupe de 3 étudiants en moyenne, choisis aléatoirement. Tout le projet devra être fait dans un dépôt ![GitHub classroom](https://classroom.github.com/g/t-04as7P) *privé*. Ce depot doit
+ Le travail se fait en groupe de 3 étudiants en moyenne, choisis aléatoirement. Tout le projet devra être fait dans un dépôt [GitHub classroom](https://classroom.github.com/g/t-04as7P) *privé*. Ce depot doit
  être créé par le chef de projet. Le projet doit être multimodule de sorte à pouvoir compiler les plugins séparément. L'application principale doit être un jar exécutable.
  La date de rendu est le *7 mai 2020 à 18.00*. Tout commit fait après ne sera pas considéré.
  La note finale tiendra compte des critères suivants
